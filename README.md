@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Vignesh
 
-<!--
-**vignesh-palanichamy/vignesh-palanichamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Industrial Biotechnology Student  
+💻 Full Stack Developer  
+🚀 Backend Developer (NestJS, Supabase, PostgreSQL)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Projects
+- 🛒 E-commerce Backend (NestJS + Supabase)
+- 💻 Online Coding Platform
+- 🤖 AI Student Assistance System
+
+---
+
+## 🛠 Tech Stack
+- Backend: NestJS, Node.js
+- Frontend: React.js, Next.js
+- Database: Supabase, PostgreSQL
+- Tools: Git, Firebase
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Portfolio: (add link)
