@@ -75,6 +75,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/vignesh-palanichamy/.github/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ⭐ *“Consistency beats intensity. Building every day.”*
