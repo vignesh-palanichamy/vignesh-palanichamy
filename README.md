@@ -20,7 +20,6 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Industrial Biotechnology Student  
 - 💻 Passionate about Backend Architecture & API Design  
 - 🔥 Building real-world scalable applications  
 - 🧠 Strong focus on Clean Code & Database Optimization  
