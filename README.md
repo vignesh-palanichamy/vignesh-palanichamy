@@ -95,7 +95,6 @@ const vignesh = {
 ---
 
 # 🏆 Achievement Board
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vignesh-palanichamy&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -113,14 +112,15 @@ const vignesh = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vignesh-palanichamy/.github/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/vignesh-palanichamy/.github/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 # 🌐 Connect With Me
 <p align="center">
-  <img src="https://github.com/vignesh-palanichamy/.github/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://www.linkedin.com/in/vigneshpalanichamy/">
+    <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
