@@ -1,74 +1,81 @@
-<!-- ==================== HEADER ==================== -->
-<h1 align="center">
-  👋 Hi, I'm Vignesh Palanichamy
-</h1>
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-<h3 align="center">
-  🚀 Full Stack Developer | Backend Specialist | NestJS | React | Supabase
-</h3>
+<h1 align="center">Hi 👋, I'm Vignesh Palanichamy</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vigneshpalanichamy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;NestJS+%7C+React+%7C+Supabase;Building+Scalable+Systems+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vigneshpalanichamy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vignesh%20Palanichamy-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vignesh-palanichamy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Industrial Biotechnology Student  
+- 💻 Passionate about Backend Architecture & API Design  
+- 🔥 Building real-world scalable applications  
+- 🧠 Strong focus on Clean Code & Database Optimization  
+- 🚀 Future Software Engineer
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🔭 Currently Building
+
+- 🛒 Scalable **E-commerce Backend**
+- 💻 Online **Coding Platform with Judge0**
+- 🤖 AI-powered Student Assistance System
+- 📱 Personal Portfolio Upgrade
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh-palanichamy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-palanichamy&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-palanichamy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vigneshpalanichamy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 💻 Building real-world apps with modern technologies  
-- 🚀 Focus on Backend, APIs, Databases & Cloud  
-- 👨‍💻 Always learning and writing clean, scalable code
-
----
-
-## 🔭 What I'm Working On
-
-- 🛒 **E-commerce Backend** (NestJS + Supabase + PostgreSQL)
-- 💻 **Online Coding Platform** (React + Judge0 API)
-- 🤖 **AI Student Assistance System**
-- 📱 Portfolio & Projects to show my best work
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh-palanichamy&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-palanichamy&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-palanichamy&layout=compact&theme=radical" />
-</p>
-
----
-
-## 💬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vigneshpalanichamy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+⭐ *“Consistency beats intensity. Building every day.”*
