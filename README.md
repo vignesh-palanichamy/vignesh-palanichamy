@@ -119,11 +119,8 @@ const vignesh = {
 ---
 
 # 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/vigneshpalanichamy/">
-    <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://github.com/vignesh-palanichamy/.github/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
